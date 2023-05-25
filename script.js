@@ -52,7 +52,7 @@ switch (Boucles) {
 }
 */
 
-/***********exercice3***********/
+/***********exercice2***********/
 
 let n = prompt('Vous voulez la multiplication avec quel nombre')
 
