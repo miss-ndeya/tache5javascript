@@ -1,3 +1,5 @@
+/**********Exercice1********/
+
 /*
 // Écrire un programme qui permet à un utilisateur de voir quelques types de Boucle
 const Boucles = prompt('Les types de boucle \n1: Boucle for\n2. Boucle while\n3. Boucle do while');
@@ -49,6 +51,8 @@ switch (Boucles) {
     break;
 }
 */
+
+/***********exercice3***********/
 
 let n = prompt('Vous voulez la multiplication avec quel nombre')
 
